@@ -1,0 +1,4 @@
+name: sampleproject
+version: '${version}'
+main: com.example.sampleproject.Sampleproject
+api-version: 1.20
